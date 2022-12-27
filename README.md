@@ -5,5 +5,5 @@
 课程作业中也对牛小骥和严恭敏的双子样算法的不同计算方式进行了对比。
 目前在武汉大学攻读博士学位，主要研究GNSS、INS、激光SLAM、高精度地图的融合定位  
 联系邮箱：zbzhao@whu.edu.cn  
-个人博客：https://blog.csdn.net/zzb714121/article/details/125338122 
+个人博客：https://blog.csdn.net/zzb714121/article/details/125338122  
 博客名称：少林波波  
