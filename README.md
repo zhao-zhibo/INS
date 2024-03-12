@@ -10,4 +10,4 @@
 作者简介:赵智博，目前在武汉大学攻读博士学位，主要研究GNSS、INS、激光SLAM、高精度地图的融合定位，昵称波波。  
 联系邮箱：zbzhao@whu.edu.cn  
 个人博客：https://blog.csdn.net/zzb714121/article/details/125338122  
-博客名称：武大赵智博
+博客名称：武汉大学-赵智博
