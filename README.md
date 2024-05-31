@@ -13,3 +13,16 @@ pdf文档中附有严恭敏和牛小骥的双子样算法对比，也对牛小�
 个人博客：https://blog.csdn.net/zzb714121/article/details/125338122  
 博客名称：武汉大学-赵智博    
 ————————————————————————————  
+**Code introduction:**   
+**SINS is the main function; IMU.bin is the calculated data; Reference.bin is the calculation result of the mechanical arrangement provided by Chen Qijin during class.**
+**Inertial navigation solution-2022.doc is the calculation requirement; Zhao Zhibo-Inertial navigation mechanical arrangement.pdf is the solution logic of the code.**   
+————————————————————————————  
+Inertial navigation mechanical arrangement algorithm, implemented with matlab code.  
+The pdf document includes a comparison of Yan Gongmin and Niu Xiaoji's twin-like algorithms, and also compares the different calculation methods of Niu Xiaoji and Yan Gongmin's twin-like algorithms.  
+The personal blog in the personal introduction is about the comparison of Q-array calculations of Niu Xiaoji and Yan Gongmin Song.  
+————————————————————————————  
+About the author: **Zhao Zhibo, currently pursuing a doctorate degree at Wuhan University, mainly researching the fusion positioning of GNSS, INS, laser SLAM, and high-precision maps. Nickname: Bobo**.  
+Contact email: zbzhao@whu.edu.cn  
+Personal blog: https://blog.csdn.net/zzb714121/article/details/125338122  
+Blog name: Wuhan University-Zhao Zhibo  
+————————————————————————————  
